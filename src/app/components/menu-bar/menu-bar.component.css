@@ -1,0 +1,10 @@
+.container__menu-bar > ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.container__menu-bar > ul > li > a,
+.container__menu-bar > ul > li > span {
+  font-size: 18px;
+}
