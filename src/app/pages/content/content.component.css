@@ -1,0 +1,32 @@
+.container__content {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content__cover {
+  width: 500px;
+  /* border: 1px solid yellow; */
+}
+
+.content__cover > img {
+  border: 3px solid gray;
+  border-radius: 5px;
+}
+
+.content__title {
+  margin-top: 25px;
+}
+
+.content__description {
+  margin-top: 15px;
+}
+
+.content__description > p {
+  color: rgb(172, 172, 172);
+}
+
+.container__back-button {
+  margin-top: 50px;
+}
