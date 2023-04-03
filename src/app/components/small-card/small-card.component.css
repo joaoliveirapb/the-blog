@@ -5,7 +5,6 @@
 .container__small-card-content {
   display: flex;
   align-items: center;
-  justify-content: center;
 }
 
 .small-card__photo {
